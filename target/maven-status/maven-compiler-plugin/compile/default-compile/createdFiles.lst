@@ -4,6 +4,7 @@ com\portfolio\alex_Project\Repository\RHys.class
 com\portfolio\alex_Project\Controller\CEducacion.class
 com\portfolio\alex_Project\Repository\RExperiencia.class
 com\portfolio\alex_Project\Security\Enums\RolNombre.class
+com\portfolio\alex_Project\WebConfig.class
 com\portfolio\alex_Project\Controller\CHys.class
 com\portfolio\alex_Project\Controller\CExperiencia.class
 com\portfolio\alex_Project\Repository\IPersonaRepository.class
