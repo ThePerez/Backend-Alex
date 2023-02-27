@@ -4,9 +4,9 @@ import com.portfolio.alex_Project.Entity.Persona;
 import com.portfolio.alex_Project.Repository.IPersonaRepository;
 import java.util.List;
 import java.util.Optional;
-import javax.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 
 

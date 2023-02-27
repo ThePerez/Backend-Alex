@@ -4,9 +4,9 @@ import com.portfolio.alex_Project.Security.Entity.Rol;
 import com.portfolio.alex_Project.Security.Enums.RolNombre;
 import com.portfolio.alex_Project.Security.Repository.iRolRepository;
 import java.util.Optional;
-import javax.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 @Service
 @Transactional

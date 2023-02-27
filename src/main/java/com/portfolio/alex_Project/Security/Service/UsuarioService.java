@@ -3,9 +3,9 @@ package com.portfolio.alex_Project.Security.Service;
 import com.portfolio.alex_Project.Security.Entity.Usuario;
 import com.portfolio.alex_Project.Security.Repository.iUsuarioRepository;
 import java.util.Optional;
-import javax.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 @Service
 @Transactional
